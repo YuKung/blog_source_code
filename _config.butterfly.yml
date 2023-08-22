@@ -181,10 +181,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: /img/wechat.jpg
+    - img: https://cdn.jsdelivr.net/gh/yukung/yukung.github.io@main/img/wechat.jpg
       link:
       text: 微信
-    - img: /img/alipay.jpg
+    - img: https://cdn.jsdelivr.net/gh/yukung/yukung.github.io@main/img/alipay.jpg
       link:
       text: 支付宝
 
