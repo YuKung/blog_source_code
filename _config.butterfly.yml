@@ -66,7 +66,7 @@ disable_top_img: false
 index_img: 
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://cdn.jsdelivr.net/gh/yukung/yukung.github.io@main/img/top_img.png
+default_top_img: /img/top_img.png
 
 # The banner image of archive page
 archive_img:
@@ -100,10 +100,10 @@ cover:
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
     # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
-    - https://cdn.jsdelivr.net/gh/yukung/yukung.github.io@main/img/cover1.png
-    - https://cdn.jsdelivr.net/gh/yukung/yukung.github.io@main/img/cover2.png
-    - https://cdn.jsdelivr.net/gh/yukung/yukung.github.io@main/img/cover3.png
-    - https://cdn.jsdelivr.net/gh/yukung/yukung.github.io@main/img/cover4.png
+    - /img/cover1.png
+    - /img/cover2.png
+    - /img/cover3.png
+    - /img/cover4.png
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
