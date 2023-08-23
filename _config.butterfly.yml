@@ -2,7 +2,7 @@
 # see https://butterfly.js.org/posts/4aa8abbe/##導航欄設置-Navigation-bar-settings
 # --------------------------------------
 
-nav:
+nav: 
   logo: # image
   display_title: true
   fixed: true # fixed navigation bar
