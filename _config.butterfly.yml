@@ -25,7 +25,7 @@ menu:
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
   说说: /talks/ || fa-brands fa-rocketchat
-  留言板: /board || fa-solid fa-pen-to-square
+  留言板: /comment/ || fa-solid fa-pen-to-square
   清单||fa fa-heartbeat:
     音乐: /music/ || fas fa-music
     照片: /gallery/ || fas fa-images
