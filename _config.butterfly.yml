@@ -48,7 +48,7 @@ code_word_wrap: false
 social:
   fab fa-github: https://github.com/YuKung || Github || '#24292e'
   fas fa-envelope: mailto:2368384805@qq.com || Email || '#4a7dbe'
-  fa-brands fa-qq: http://wpa.qq.com/msgrd?v=3&uin=2368384805&site=qq&menu=yes || QQ ||  
+  fa-brands fa-qq: http://wpa.qq.com/msgrd?v=3&uin=2368384805&site=qq&menu=yes || QQ || ' #0080ff'
 # Image (圖片設置)
 # --------------------------------------
 
