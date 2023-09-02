@@ -1,9 +1,8 @@
 ---
 categories:
-  categories:
-  - - hexo
-    - '123'
-  - - 博客美化
+- - hexo
+  - '123'
+- - 博客美化
 date: '2023-08-23T23:10:44.703647+08:00'
 tags:
 - hexo
