@@ -6,7 +6,7 @@ tags:
 - 科研
 - AIGC
 title: GeneFace复现
-updated: 2023-9-5T18:53:5.881+8:0
+updated: 2023-9-5
 ---
 简单记录了下跑GeneFace代码的流程还有自己踩的一些坑
 
