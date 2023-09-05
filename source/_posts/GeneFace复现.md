@@ -1,12 +1,14 @@
 ---
-categories: '[[“科研”,“论文复现”]]'
+categories:
+- - 科研
+  - 论文复现
 date: '2023-09-05T18:38:56.432037+08:00'
 tags:
 - 深度学习
 - 科研
 - AIGC
 title: GeneFace复现
-updated: 2023-9-5
+updated: 2023-9-5T19:3:23.905+8:0
 ---
 简单记录了下跑GeneFace代码的流程还有自己踩的一些坑
 
