@@ -8,7 +8,7 @@ tags:
 - AIGC
 - 科研
 title: 论文阅读：GENEFACE GENERALIZED AND HIGH-FIDELITY AUDIO-DRIVEN 3D TALKING FACE SYNTHESIS
-updated: 2023-9-5T18:38:31.559+8:0
+updated: 2023-9-5
 ---
 这两天读了GeneFace的论文并且跑了下代码，简短地记了些东西
 
