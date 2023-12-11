@@ -14,7 +14,7 @@ email: 2368384805
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://YuKung.github.io
+url: https://www.blog-yukung.top/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,7 +102,7 @@ theme: butterfly
 
 deploy:
   type: git
-  repo: https://github.com/YuKung/YuKung.github.io
+  repo: https://github.com/YuKung/blog_source_code
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
 
