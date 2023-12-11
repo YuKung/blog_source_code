@@ -394,7 +394,7 @@ local_search:
 docsearch:
   enable: true
   appId: 0D6YXOTDC9
-  apiKey: 98dce98bb09f91dc7fbe0216eba654dc
+  apiKey: 71499794974e19e5cab62d8c51f99bcc
   indexName: www-yukung
   option:
 
