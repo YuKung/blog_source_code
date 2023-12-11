@@ -392,10 +392,10 @@ local_search:
 
 # Docsearch
 docsearch:
-  enable: false
-  appId:
-  apiKey:
-  indexName:
+  enable: true
+  appId: 0D6YXOTDC9
+  apiKey: 98dce98bb09f91dc7fbe0216eba654dc
+  indexName: www-yukung
   option:
 
 # Share System (分享)
