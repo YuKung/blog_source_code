@@ -983,8 +983,8 @@ CDN:
     # disqusjs:
     # disqusjs_css:
     # twikoo:
-    # waline_js:
-    # waline_css:
+    waline_css: https://cdn.jsdelivr.net/npm/@waline/client@2/dist/waline.css
+    waline_js: https://cdn.jsdelivr.net/npm/@waline/client@2/dist/waline.min.js
     # giscus:
     # sharejs:
     # sharejs_css:
