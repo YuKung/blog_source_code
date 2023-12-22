@@ -476,7 +476,7 @@ valine:
 # waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
-  serverURL: https://comment.blog-yukung.top/
+  serverURL: https://comment.blog-yukung.top
   bg: # waline background
   pageview: false
   option:
